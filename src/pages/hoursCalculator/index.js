@@ -7,8 +7,8 @@ function HoursCalculator() {
     const [numberOfInputs, setNumberOfInputs] = useState(2);
     const [result, setResult] = useState({hours: '', minutes: ''})
 
-    const hoursInputRef = useRef(new Array());
-    const minutesInputRef = useRef(new Array());
+    const hoursInputRef = useRef([]);
+    const minutesInputRef = useRef([]);
 
     const resetFields = () => {
         [...hoursInputRef.current, ...minutesInputRef.current].filter(value => value).forEach(elem => elem.value = '');
