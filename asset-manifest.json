@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/nextiUtilitarios/static/js/main.a15a71e9.chunk.js",
+    "main.js.map": "/nextiUtilitarios/static/js/main.a15a71e9.chunk.js.map",
+    "runtime-main.js": "/nextiUtilitarios/static/js/runtime-main.46ea4574.js",
+    "runtime-main.js.map": "/nextiUtilitarios/static/js/runtime-main.46ea4574.js.map",
+    "static/js/2.02ea6f68.chunk.js": "/nextiUtilitarios/static/js/2.02ea6f68.chunk.js",
+    "static/js/2.02ea6f68.chunk.js.map": "/nextiUtilitarios/static/js/2.02ea6f68.chunk.js.map",
+    "static/js/3.076de018.chunk.js": "/nextiUtilitarios/static/js/3.076de018.chunk.js",
+    "static/js/3.076de018.chunk.js.map": "/nextiUtilitarios/static/js/3.076de018.chunk.js.map",
+    "index.html": "/nextiUtilitarios/index.html",
+    "static/js/2.02ea6f68.chunk.js.LICENSE.txt": "/nextiUtilitarios/static/js/2.02ea6f68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ea4574.js",
+    "static/js/2.02ea6f68.chunk.js",
+    "static/js/main.a15a71e9.chunk.js"
+  ]
+}
