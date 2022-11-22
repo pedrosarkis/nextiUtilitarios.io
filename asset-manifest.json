@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/nextiUtilitarios.io/static/js/main.a15a71e9.chunk.js",
-    "main.js.map": "/nextiUtilitarios.io/static/js/main.a15a71e9.chunk.js.map",
+    "main.js": "/nextiUtilitarios.io/static/js/main.85155b58.chunk.js",
+    "main.js.map": "/nextiUtilitarios.io/static/js/main.85155b58.chunk.js.map",
     "runtime-main.js": "/nextiUtilitarios.io/static/js/runtime-main.11b9fdfb.js",
     "runtime-main.js.map": "/nextiUtilitarios.io/static/js/runtime-main.11b9fdfb.js.map",
-    "static/js/2.938ec019.chunk.js": "/nextiUtilitarios.io/static/js/2.938ec019.chunk.js",
-    "static/js/2.938ec019.chunk.js.map": "/nextiUtilitarios.io/static/js/2.938ec019.chunk.js.map",
+    "static/js/2.63b880e0.chunk.js": "/nextiUtilitarios.io/static/js/2.63b880e0.chunk.js",
+    "static/js/2.63b880e0.chunk.js.map": "/nextiUtilitarios.io/static/js/2.63b880e0.chunk.js.map",
     "static/js/3.076de018.chunk.js": "/nextiUtilitarios.io/static/js/3.076de018.chunk.js",
     "static/js/3.076de018.chunk.js.map": "/nextiUtilitarios.io/static/js/3.076de018.chunk.js.map",
     "index.html": "/nextiUtilitarios.io/index.html",
-    "static/js/2.938ec019.chunk.js.LICENSE.txt": "/nextiUtilitarios.io/static/js/2.938ec019.chunk.js.LICENSE.txt"
+    "static/js/2.63b880e0.chunk.js.LICENSE.txt": "/nextiUtilitarios.io/static/js/2.63b880e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.11b9fdfb.js",
-    "static/js/2.938ec019.chunk.js",
-    "static/js/main.a15a71e9.chunk.js"
+    "static/js/2.63b880e0.chunk.js",
+    "static/js/main.85155b58.chunk.js"
   ]
 }
